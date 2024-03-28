@@ -1,10 +1,13 @@
-
-
-
-  .cardBook{
-    padding: 5px;
-    background-color: rgb(203, 247, 232);
-    width: 300px;
-    border-radius: 10px;
-    margin: 10px;
-  }
+.App {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+ 
+.cardBook{
+  padding: 5px;
+  background-color: #c4f8f1;
+  width: 300px;
+  border-radius: 10px;
+  margin: 10px;
+}
